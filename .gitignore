@@ -1,0 +1,14 @@
+# Editors / OS
+.idea/
+.vscode/
+.DS_Store
+
+# Build and test artifacts
+/bin/
+*.test
+*.out
+coverage.*
+
+# Local env
+*.env
+*.log
